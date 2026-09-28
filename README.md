@@ -1,6 +1,6 @@
-# Workout Tracker (iOS)
+# Setlist
 
-A UIKit iOS app for building workout templates, logging live workouts, reviewing
+Setlist is a UIKit iOS app for building workout templates, logging live workouts, reviewing
 history with photos, sharing to a social feed, and viewing training analytics.
 Built as a team final project (Andrew Kenny, Waverly Hassman, Luke Waehner),
 backed by Firebase Auth, Firestore, and Storage.
