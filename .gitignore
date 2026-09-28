@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+__MACOSX/
+
+# Xcode per-user state
+xcuserdata/
+DerivedData/
+build/
+
+# Firebase config (contains project API key) — supply your own
+GoogleService-Info.plist
+
+# Large binaries
+*.pptx
